@@ -5,8 +5,14 @@
 
 ## Brief projects' description (ordered by completion):
 
-### 34. SQL (Windows Functions): ["Climate Change"](./sql/windows_functions/climate_change.ipynb)
+### 34. Technology (subject): ["Name"](./sql/windows_functions/climate_change.ipynb)
 
 The goal of this project is to practice SQL windows functions, ascertaining different climate change insights within "Global Land and Ocean Temperatures" dataset in the process.
+
+----------------------
+
+### 34. C++ (Windows Functions): ["C++"](./C++)
+
+Folder wich contains C++ projects.
 
 ----------------------
