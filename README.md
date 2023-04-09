@@ -11,8 +11,26 @@ The goal of this project is to practice SQL windows functions, ascertaining diff
 
 ----------------------
 
+### 34. Machine Learning (): ["C++"](./Machine Learning)
+
+Folder wich contains Machine Learning projects.
+
+----------------------
+
 ### 34. C++ (Windows Functions): ["C++"](./C++)
 
 Folder wich contains C++ projects.
+
+----------------------
+
+### 34. Linear Algebra (): ["Linear Algebra"](./Linear_Algebra)
+
+Folder wich contains linear Algebra projects.
+
+----------------------
+
+### 34. Calculus (): ["Calculus"](./Calculus)
+
+Folder wich contains Calculus projects.
 
 ----------------------
