@@ -11,7 +11,7 @@ The goal of this project is to practice SQL windows functions, ascertaining diff
 
 ----------------------
 
-### 34. Machine Learning (): ["Machine Learning"](./Machine_Learning)
+### 34. Machine Learning (): ["Machine Learning"](./Machine Learning/)
 
 Folder wich contains Machine Learning projects.
 
